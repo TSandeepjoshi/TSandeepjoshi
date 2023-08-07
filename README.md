@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TSandeepjoshi
 - 👀 I’m interested in ...software developer
-- 🌱 I’m currently learning ...basic coding
-- 💞️ I’m looking to collaborate on ...big company
-- 📫 How to reach me ...with my bi-data.
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on Top MNC
 
 <!---
 TSandeepjoshi/TSandeepjoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
