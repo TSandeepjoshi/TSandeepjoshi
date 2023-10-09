@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TSandeepjoshi
-- 👀 I’m interested in ...software developer
+- 👀 I’m interested in Testing.
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Top MNC
 
